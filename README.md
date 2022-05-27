@@ -1,12 +1,15 @@
 ### Olá 👋
-Eu sou Jorge, sou fullstack developer, moro em São Paulo, Brasil.
-- Trabalho em diversos projetos web, mobile e backend usando react, typescript, react native, nodejs, nextJS, redux, entre outros.
-- Atualmente meu foco é aprender mais sobre design patterns, engenharia de software, mobile e nas horas vagas aprendo machine learning para mobile e aplicações web.
-- Estou no 6 semestre de ciência da computação.
-- Como hobbies gosto de ler livros, escutar músicas e estudar violino.
+Sou software developer, moro em Guarulho, São Paulo, Brasil.
+- Atualmente trabalho como mobile developer com react native, typescript, redux e outras libs.
+- Já Trabalhei em diversas agências de publicidades e empresas de softwarre, com projetos voltados para web, mobile e backend. 
+- Minhas principais skills são javascript, react, typescript, react native, nodejs, nextJS, redux, entre outros.
+- Atualmente cursando o 1° semestre de Inteligência Artificial na FIAP.
+- Meu foco é aprender mais sobre design patterns, engenharia de software, mobile e desenvolver e aplicar meus conhecimentos em ML, NN, NLP e DL voltados para mobile e web.
+- Meus hobbies gosto muito de ler livros, escutar músicas, escrever e aprender violino.
 
 ### Hi 👋
-I am a fullstack software engineer from Sao Paulo, Brazil
+I am a software developer from Guarulhos, Sao Paulo, Brazil.
+- Currently I'm have been working as mobile developer with react native, typescript, redux and others libs.
 - Working on multiple frontend and backend project using react, typescript, react native, nodejs, nextJS, redux, and others.
 - Actually my focus is improve my skill as software engineer like design patterns, unit tests, and machine learning for mobile and web applications.
 - I'm study of science computer and i in six semester.
