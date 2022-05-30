@@ -6,14 +6,14 @@ Sou software developer, moro em Guarulho, São Paulo, Brasil.
 - Atualmente cursando o 1° semestre de Inteligência Artificial na FIAP.
 - Meu foco é aprender mais sobre design patterns, engenharia de software, mobile e desenvolver e aplicar meus conhecimentos em ML, NN, NLP e DL voltados para mobile e web.
 - Meus hobbies gosto muito de ler livros, escutar músicas, escrever e aprender violino.
-
+<!-- 
 ### Hi 👋
 I am a software developer from Guarulhos, Sao Paulo, Brazil.
 - Currently I'm have been working as mobile developer with react native, typescript, redux and others libs.
 - Working on multiple frontend and backend project using react, typescript, react native, nodejs, nextJS, redux, and others.
 - Actually my focus is improve my skill as software engineer like design patterns, unit tests, and machine learning for mobile and web applications.
 - I'm study of science computer and i in six semester.
-- As a hobbies, i like to read book of my types, listen music and study violin.  
+- As a hobbies, i like to read book of my types, listen music and study violin.   -->
 
 ## Main skills
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
