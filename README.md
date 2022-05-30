@@ -1,11 +1,11 @@
 ### Olá 👋
 Sou software developer, moro em Guarulho, São Paulo, Brasil.
 - Atualmente trabalho como mobile developer com react native, typescript, redux e outras libs.
-- Já Trabalhei em diversas agências de publicidades e empresas de softwarre, com projetos voltados para web, mobile e backend. 
-- Minhas principais skills são javascript, react, typescript, react native, nodejs, nextJS, redux, entre outros.
+- Já Trabalhei em diversas agências de publicidades e empresas de software, desenvolvendo projetos voltados para web, mobile e backend. 
+- Minhas principais skills são javascript, react, typescript, react native, nodejs, nextJS, redux, python. entre outros.
 - Atualmente cursando o 1° semestre de Inteligência Artificial na FIAP.
-- Meu foco é aprender mais sobre design patterns, engenharia de software, mobile e desenvolver e aplicar meus conhecimentos em ML, NN, NLP e DL voltados para mobile e web.
-- Meus hobbies gosto muito de ler livros, escutar músicas, escrever e aprender violino.
+- Meu foco é aprender mais sobre design patterns, engenharia de software, mobile, desenvolver e aplicar meus conhecimentos em ML, NN, NLP e DL voltados para mobile e web.
+- Sobre hobbies, gosto muito de ler livros, escutar músicas, escrever contos, jogar video game com a galera e aprender violino.
 <!-- 
 ### Hi 👋
 I am a software developer from Guarulhos, Sao Paulo, Brazil.
