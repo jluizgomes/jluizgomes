@@ -1,5 +1,5 @@
 ### Olá 👋
-Sou software developer, moro em Guarulho, São Paulo, Brasil.
+Sou software developer, moro em Guarulhos, São Paulo, Brasil.
 - Atualmente trabalho como mobile developer com react native, typescript, redux e outras libs.
 - Já Trabalhei em diversas agências de publicidades e empresas de software, desenvolvendo projetos voltados para web, mobile e backend. 
 - Minhas principais skills são javascript, react, typescript, react native, nodejs, nextJS, redux, python. entre outros.
