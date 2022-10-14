@@ -42,5 +42,8 @@ In my free time I like to read books (📚), watch movies and series (🍿), to 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jluizgomes)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jluizgomes)
-[![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=jluizgomes&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/jluizgomes)
 
+<!-- <br>
+<br>
+
+[![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=jluizgomes&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/jluizgomes) -->
