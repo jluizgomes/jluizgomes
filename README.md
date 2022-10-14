@@ -1,19 +1,13 @@
-### Olá 👋
-Sou software developer, moro em Guarulhos, São Paulo, Brasil.
-- Atualmente trabalho como mobile developer com react native, typescript, redux e outras libs.
-- Já Trabalhei em diversas agências de publicidades e empresas de software, desenvolvendo projetos voltados para web, mobile e backend. 
-- Minhas principais skills são javascript, react, typescript, react native, nodejs, nextJS, redux, python. entre outros.
-- Atualmente cursando o 1° semestre de Inteligência Artificial na FIAP.
-- Meu foco é aprender mais sobre design patterns, engenharia de software, mobile, desenvolver e aplicar meus conhecimentos em ML, NN, NLP e DL voltados para mobile e web.
-- Sobre hobbies, gosto muito de ler livros, escutar músicas, escrever contos, jogar video game com a galera e aprender violino.
-<!-- 
-### Hi 👋
-I am a software developer from Guarulhos, Sao Paulo, Brazil.
-- Currently I'm have been working as mobile developer with react native, typescript, redux and others libs.
-- Working on multiple frontend and backend project using react, typescript, react native, nodejs, nextJS, redux, and others.
-- Actually my focus is improve my skill as software engineer like design patterns, unit tests, and machine learning for mobile and web applications.
-- I'm study of science computer and i in six semester.
-- As a hobbies, i like to read book of my types, listen music and study violin.   -->
+### Olá! 🤘🤓
+Meu nome é Jorge Gomes, de São Paulo, Brasil 🇧🇷. Trabalho como Desenvolvedor de Software desde 2004, e atualmente sou Desenvolvedor de Software no GPA, trabalho principalmente com aplicativos mobile.
+Sou apaixonado por aprender tudo sobre tecnologia, psicologia e filosofia, juntando todo esse conhecimento e aplicando no dia a dia.
+No meu tempo livre gosto de ler livros (📚), assistir filmes e séries (🍿), assistir esportes (⚽ 🏀 🏈 ⚾) (gosto de jogar futebol também como goleiro 😁🧤), ouvir música (🎵), escrever contos de terror (✍️), tocar violino (🎻), jogar videogame e assistir animes e desenhos animados com minha filha.
+
+### Hi there! 🤘🤓
+My name is Jorge Gomes, from Sao Paulo, Brazil 🇧🇷. I've been working as Software Developer since 2004, and currently I'm Software Developer at GPA, working maily with mobile applications.
+I'm passionate about learning everything about technology, psychology, and philosophy, putting all this knowledge together, and apply day by day.
+In my free time I like to read books (📚), watch movies and series (🍿), to watch sports (⚽ 🏀 🏈 ⚾) (I like to play soccer too as goalkeeper 😁🧤), listen to music (🎵), write horror tales (✍️), play my violin (🎻), play video game and watch animes and cartoons with my daughter.
+
 
 ## Main skills
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -48,3 +42,5 @@ I am a software developer from Guarulhos, Sao Paulo, Brazil.
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jluizgomes)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jluizgomes)
+[![Jorge's github stats](https://github-readme-stats.vercel.app/api?username=jluizgomes&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/jluizgomes)
+
