@@ -1,5 +1,9 @@
-Hello! I'm Jorge Gomes, a Brazilian Software Developer based in São Paulo. Since 2004, I’ve been crafting software with curiosity as my compass, and today I serve as a Tech Lead at a company dedicated to AI-driven solutions. My interests orbit technology, psychology, and philosophy—fields that shape how I think, build, and solve problems.
-Off the clock, I dive into books and films, follow sports (and jump into the goal when I can 😁🧤), listen to music, write horror tales, practice the violin, game a little, and enjoy anime and cartoons with my daughter.
+Software/AI Engineer & Tech Lead. Trabalho com engenharia full-stack, mobile e sistemas inteligentes. Apaixonado por aprender, pensar e construir — tecnologia, mente humana e filosofia são meus combustíveis. No tempo livre: livros, música, esportes, terror e violino.
+
+<br>
+<br>
+
+AI-driven Software Engineer & Tech Lead. I work across full-stack, mobile, and intelligent systems. Lifelong learner of tech, psychology, and philosophy. Outside code: books, music, sports, horror writing, and violin.
 
 <br>
 <br>
